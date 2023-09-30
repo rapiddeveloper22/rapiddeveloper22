@@ -6,7 +6,7 @@
 <ul>
   <li>Programming Languages: Java, Python, C++</li>
   <li>Scripting Languages: Javascript, Perl, PHP</li>
-  <li>Frontend : HTML, CSS, Bootstrap </li>
+  <li>Frontend : React.js, HTML, CSS, Bootstrap </li>
   <li>Databases: MySQL, MongoDB, Oracle SQL</li>
   <li>Framework: Nodejs </li>
   <li>Version Control: Git</li>
